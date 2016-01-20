@@ -1,4 +1,4 @@
-Peter Hughes
+## Peter Hughes
 
 I have had a keen interest in mind and body unification for nearly 40 years - it has been an integral part of my study of Ki Aikido and Ki Development. In 2014 I discovered that many of the exercises and methods that I had been practising and teaching were derived from Japanese Yoga.
 

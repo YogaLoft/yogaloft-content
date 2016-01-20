@@ -1,4 +1,4 @@
-Marilina De Matteis
+## Marilina De Matteis
 
 My first approach to yoga was in 2009 with Bikram yoga when I was living in Madrid. I attended regular classes back then and I enjoyed it, but I felt there was something missing and a lot more I wanted to discover about yoga. In particular I was missing the creativity and the spirituality of it, which I soon found when I moved to the UK. When arrived in Plymouth I started to explore different styles of yoga at the Yoga Loft, and I finally found what I was looking for.
 
