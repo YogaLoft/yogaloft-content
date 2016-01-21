@@ -160,6 +160,9 @@
         "id": "Charlotte-Levy",
         "name": "Charlotte Levy"
       },
+      "warnings": [
+        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
+      ],
       "passes": [
         22039,
         22043,
@@ -178,6 +181,9 @@
         "id": "Gavin-Tilstone",
         "name": "Gavin Tilstone"
       },
+      "warnings": [
+        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
+      ],
       "passes": [
         22039,
         22043,
@@ -297,6 +303,9 @@
         "id": "Lee-Miller",
         "name": "Lee Miller"
       },
+      "warnings": [
+        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
+      ],
       "passes": [
         22039,
         22043,
@@ -334,8 +343,8 @@
         "id": "Venita-Botha",
         "name": "Venita Botha"
       },
-      "alerts": [
-        "Saturday classes have become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
+      "warnings": [
+        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
       ],
       "passes": [
         22039,
@@ -371,8 +380,8 @@
         "id": "Jules-Laville",
         "name": "Jules Laville"
       },
-      "alerts": [
-        "Saturday classes have become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
+      "warnings": [
+        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
       ],
       "passes": [
         22039,
