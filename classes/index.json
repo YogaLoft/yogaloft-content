@@ -1,0 +1,112 @@
+{
+  "Monday": [
+    {
+      "name": "Community Class",
+      "start": "11:00",
+      "end": "12:30",
+      "instructor": {
+        "name": "Jo Thyssen"
+      },
+      "substitute": {
+        "name": "Steve Osman"
+      },
+      "notes": [
+        "Whilst Jo is on retreat in Goa, Steve who is visiting from France, has kindly agreed to teach the session."
+      ],
+    },
+    {
+      "name": "Prana Flow",
+      "start": "17:45",
+      "end": "19:15",
+      "instructor": {
+        "name": "Keef Wesolowski Miles"
+      },
+      "passes": [
+        22042,
+        22045,
+        23106,
+        23107,
+        22044,
+        22099
+      ]
+    },
+    {
+      "name": "Mixed Ability",
+      "start": "19:30",
+      "end": "21:00",
+      "instructor": {
+        "name": "Jo Thyssen"
+      },
+      "substitute": {
+        "id": "Steve-Osman",
+        "name": "Steve Osman"
+      },
+      "notes": [
+        "Whilst Jo is on retreat in Goa, Steve who is visiting from France, has kindly agreed to teach the session."
+      ],
+      "passes": [
+        22042,
+        22045,
+        23106,
+        23107,
+        22044,
+        22099
+      ]
+    }
+  ],
+  "Tuesday": [
+    {
+      "name": "Hatha",
+      "start": "12:30",
+      "end": "13:30",
+      "instructor": {
+        "name": "Jo Thyssen"
+      },
+      "substitute": {
+        "name": "Steve Osman"
+      },
+      "notes": [
+        "Whilst Jo is on retreat in Goa, Steve who is visiting from France, has kindly agreed to teach the session."
+      ],
+      "passes": [
+        22042,
+        22045,
+        23106,
+        23107,
+        22044,
+        22099
+      ]
+    },
+    {
+      "name": "Ashtanga Vinyasa",
+      "start": "17:45",
+      "end": "19:15",
+      "instructor": {
+        "name": "Lee Miller"
+      },
+      "passes": [
+        22042,
+        22045,
+        23106,
+        23107,
+        22044,
+        22099
+      ]
+    },
+    {
+      "name": "Acroyoga",
+      "start": "19:30",
+      "end": "21:00",
+      "instructor": {
+        "name": "Jo Thyssen"
+      },
+      "notes": [
+        "Whilst Jo is away, this session is a freestyle jam session for the Acro Yogi die hards. Please feel free to attend if you are one of the regulars or know one of the regulars.",
+        "There is no charge for the session, but you may leave a donation for use of the space, if you feel inclined. :)"
+      ],
+      "passes": [
+        22100
+      ]
+    }
+  ],
+}
