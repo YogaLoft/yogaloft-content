@@ -1,13 +1,16 @@
 {
   "Monday": [
     {
+      "id": "Community-Class",
       "name": "Community Class",
       "start": "11:00",
       "end": "12:30",
       "instructor": {
+        "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
       "substitute": {
+        "id": "Steve-Osman",
         "name": "Steve Osman"
       },
       "notes": [
@@ -15,10 +18,12 @@
       ]
     },
     {
+      "id": "Prana-Flow",
       "name": "Prana Flow",
       "start": "17:45",
       "end": "19:15",
       "instructor": {
+        "id": "Keef-Wesolowski-Miles",
         "name": "Keef Wesolowski Miles"
       },
       "passes": [
@@ -31,10 +36,12 @@
       ]
     },
     {
+      "id": "Mixed-Ability",
       "name": "Mixed Ability",
       "start": "19:30",
       "end": "21:00",
       "instructor": {
+        "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
       "substitute": {
@@ -56,13 +63,16 @@
   ],
   "Tuesday": [
     {
+      "id": "Hatha",
       "name": "Hatha",
       "start": "12:30",
       "end": "13:30",
       "instructor": {
+        "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
       "substitute": {
+        "id": "Steve-Osman",
         "name": "Steve Osman"
       },
       "notes": [
@@ -78,10 +88,12 @@
       ]
     },
     {
+      "id": "Ashtanga-Vinyasa",
       "name": "Ashtanga Vinyasa",
       "start": "17:45",
       "end": "19:15",
       "instructor": {
+        "id": "Lee-Miller",
         "name": "Lee Miller"
       },
       "passes": [
@@ -94,10 +106,12 @@
       ]
     },
     {
+      "id": "Acroyoga",
       "name": "Acroyoga",
       "start": "19:30",
       "end": "21:00",
       "instructor": {
+        "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
       "notes": [
