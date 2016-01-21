@@ -154,8 +154,8 @@
     {
       "id": "Vinyasa-Flow",
       "name": "Vinyasa Flow",
-      "start": "10:00",
-      "end": "11:30",
+      "start": "17:45",
+      "end": "19:15",
       "instructor": {
         "id": "Charlotte-Levy",
         "name": "Charlotte Levy"
@@ -250,5 +250,80 @@
         22098
       ]
     }
+  ],
+  "Friday": [
+    {
+      "id": "Vinyasa-Flow",
+      "name": "Vinyasa Flow",
+      "start": "10:00",
+      "end": "11:30",
+      "instructor": {
+        "id": "Charlotte-Levy",
+        "name": "Charlotte Levy"
+      },
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    },
+    {
+      "id": "Japanese-Yoga",
+      "name": "Japanese Yoga",
+      "start": "14:00",
+      "end": "15:00",
+      "instructor": {
+        "id": "Peter-Hughes",
+        "name": "Peter Hughes"
+      },
+      "passes": [
+        22042,
+        22045,
+        23106,
+        23107,
+        22044,
+        22099
+      ]
+    },
+    {
+      "id": "Ashtanga-Vinyasa",
+      "name": "Ashtanga Vinyasa",
+      "start": "17:45",
+      "end": "19:15",
+      "instructor": {
+        "id": "Lee-Miller",
+        "name": "Lee Miller"
+      },
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    },
+    {
+      "id": "Acroyoga-Jam",
+      "name": "Acroyoga Jam",
+      "start": "19:30",
+      "end": "21:30",
+      "instructor": {
+        "id": "Jo-Thyssen",
+        "name": "Jo Thyssen"
+      },
+      "notes": [
+        "Whilst Jo is on retreat in Goa, until mid February, this session is a freestyle jam session for the Acro Yogi die hards. Please feel free to attend if you are one of the regulars or have been invited by one of the regulars.",
+        "There is no charge for the session, but you may leave a donation for use of the space, if you feel inclined. :)"
+      ],
+      "passes": [
+        22100
+      ]
+    }
+  ],
+  "Saturday": [
   ]
 }
