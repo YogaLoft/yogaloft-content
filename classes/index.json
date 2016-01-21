@@ -122,5 +122,70 @@
         22100
       ]
     }
+  ],
+  "Wednesday": [
+    {
+      "id": "Vinyasa-Flow-for-Seniors",
+      "name": "Vinyasa Flow for Seniors",
+      "start": "14:00",
+      "end": "15:30",
+      "instructor": {
+        "id": "Jules-Laville",
+        "name": "Jules Laville"
+      },
+      "passes": [
+        22045,
+        22099
+      ]
+    },
+    {
+      "id": "Vinyasa-Flow-for-Children",
+      "name": "Vinyasa Flow for Children",
+      "start": "16:30",
+      "end": "17:30",
+      "instructor": {
+        "id": "Jules-Laville",
+        "name": "Jules Laville"
+      },
+      "passes": [
+        22047
+      ]
+    },
+    {
+      "id": "Vinyasa-Flow",
+      "name": "Vinyasa Flow",
+      "start": "10:00",
+      "end": "11:30",
+      "instructor": {
+        "id": "Charlotte-Levy",
+        "name": "Charlotte Levy"
+      },
+      "passes": [
+        22042,
+        22045,
+        23106,
+        23107,
+        22044,
+        22099
+      ]
+    },
+    {
+      "id": "Iyengar",
+      "name": "Iyengar",
+      "start": "19:30",
+      "end": "21:00",
+      "instructor": {
+        "id": "Gavin-Tilstone",
+        "name": "Gavin Tilstone"
+      },
+      "passes": [
+        22042,
+        22045,
+        23106,
+        23107,
+        22044,
+        22099
+      ]
+    }
   ]
 }
