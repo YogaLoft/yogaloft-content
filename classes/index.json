@@ -325,5 +325,63 @@
     }
   ],
   "Saturday": [
+    {
+      "id": "Hatha",
+      "name": "Hatha",
+      "start": "09:30",
+      "end": "11:00",
+      "instructor": {
+        "id": "Venita-Botha",
+        "name": "Venita Botha"
+      },
+      "alerts": [
+        "Saturday classes have become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
+      ],
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    },
+    {
+      "id": "Yoga-with-Marilina",
+      "name": "Yoga with Marilina",
+      "start": "11:30",
+      "end": "13:00",
+      "instructor": {
+        "id": "Marilina-De-Matteis",
+        "name": "Marilina De Matteis"
+      },
+      "warnings": [
+        "This is a private class for a specific group. Attendance is by invitation only."
+      ],
+      "passes": [
+        22100
+      ]
+    },
+    {
+      "id": "Vinyasa-Flow",
+      "name": "Vinyasa Flow",
+      "start": "16:00",
+      "end": "17:30",
+      "instructor": {
+        "id": "Jules-Laville",
+        "name": "Jules Laville"
+      },
+      "alerts": [
+        "Saturday classes have become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
+      ],
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    },
   ]
 }

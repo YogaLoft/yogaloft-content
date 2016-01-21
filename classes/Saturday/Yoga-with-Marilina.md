@@ -1,0 +1,1 @@
+This is a beginners class where we'll explore moving with the breath, particularly focusing on alignment to preserve happy joints and enjoy the full benefits of every posture.
