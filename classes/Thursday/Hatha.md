@@ -1,0 +1,1 @@
+A two hour class with a focus on breath suitable for all.

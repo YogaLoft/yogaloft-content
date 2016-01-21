@@ -1,0 +1,1 @@
+This yoga is suitable for beginner skill levels and is tailored for whoever shows up on the day.

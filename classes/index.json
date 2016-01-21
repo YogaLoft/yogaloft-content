@@ -14,7 +14,7 @@
         "name": "Steve Osman"
       },
       "notes": [
-        "Whilst Jo is on retreat in Goa, Steve who is visiting from France, has kindly agreed to teach the session."
+        "Whilst Jo is on retreat in Goa, until mid February, Steve who is visiting from France, has kindly agreed to teach this session."
       ]
     },
     {
@@ -27,12 +27,12 @@
         "name": "Keef Wesolowski Miles"
       },
       "passes": [
-        22042,
-        22045,
-        23106,
-        23107,
-        22044,
-        22099
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
       ]
     },
     {
@@ -49,15 +49,15 @@
         "name": "Steve Osman"
       },
       "notes": [
-        "Whilst Jo is on retreat in Goa, Steve who is visiting from France, has kindly agreed to teach the session."
+        "Whilst Jo is on retreat in Goa, until mid February, Steve who is visiting from France, has kindly agreed to teach this session."
       ],
       "passes": [
-        22042,
-        22045,
-        23106,
-        23107,
-        22044,
-        22099
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
       ]
     }
   ],
@@ -76,7 +76,7 @@
         "name": "Steve Osman"
       },
       "notes": [
-        "Whilst Jo is on retreat in Goa, Steve who is visiting from France, has kindly agreed to teach the session."
+        "Whilst Jo is on retreat in Goa, until mid February, Steve who is visiting from France, has kindly agreed to teach this session."
       ],
       "passes": [
         22042,
@@ -97,12 +97,12 @@
         "name": "Lee Miller"
       },
       "passes": [
-        22042,
-        22045,
-        23106,
-        23107,
-        22044,
-        22099
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
       ]
     },
     {
@@ -115,7 +115,7 @@
         "name": "Jo Thyssen"
       },
       "notes": [
-        "Whilst Jo is away, this session is a freestyle jam session for the Acro Yogi die hards. Please feel free to attend if you are one of the regulars or know one of the regulars.",
+        "Whilst Jo is on retreat in Goa, until mid February, this session is a freestyle jam session for the Acro Yogi die hards. Please feel free to attend if you are one of the regulars or have been invited by one of the regulars.",
         "There is no charge for the session, but you may leave a donation for use of the space, if you feel inclined. :)"
       ],
       "passes": [
@@ -161,12 +161,12 @@
         "name": "Charlotte Levy"
       },
       "passes": [
-        22042,
-        22045,
-        23106,
-        23107,
-        22044,
-        22099
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
       ]
     },
     {
@@ -179,12 +179,75 @@
         "name": "Gavin Tilstone"
       },
       "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    }
+  ],
+  "Thursday": [
+    {
+      "id": "Morning-Vinyasa-Flow",
+      "name": "Morning Vinyasa Flow",
+      "start": "08:30",
+      "end": "09:30",
+      "instructor": {
+        "id": "Jules-Laville",
+        "name": "Jules Laville"
+      },
+      "passes": [
         22042,
         22045,
         23106,
         23107,
         22044,
         22099
+      ]
+    },
+    {
+      "id": "Beginners",
+      "name": "Beginners",
+      "start": "17:45",
+      "end": "19:15",
+      "instructor": {
+        "id": "Jo-Thyssen",
+        "name": "Jo Thyssen"
+      },
+      "substitute": {
+        "id": "Steve-Osman",
+        "name": "Steve Osman"
+      },
+      "notes": [
+        "Whilst Jo is on retreat in Goa, until mid February, Steve who is visiting from France, has kindly agreed to teach this session."
+      ],
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    },
+    {
+      "id": "Hatha",
+      "name": "Hatha",
+      "start": "19:30",
+      "end": "21:30",
+      "instructor": {
+        "id": "Nic-Sharpe",
+        "name": "Nic Sharpe"
+      },
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
       ]
     }
   ]
