@@ -2,7 +2,7 @@ My classes are carefully designed to promote wellness, developing strength and f
 
 Music is an important part of my classes. My playlists include a range of chilled out sounds as well as more energising world beat music mixes.
 
-The Children’s Yoga Class is for ages 8-12 year olds.
+## Children's Yoga for ages 8 to 12
 
 In this fun creative yoga class, the young participants develop their strength, flexibility and co-oridnation as well as learning important life skills around respect, focus and relaxation. At the end of each term we invite  parents/guardians to join in/or observe the class.
 
