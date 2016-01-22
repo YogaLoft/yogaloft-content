@@ -2,4 +2,4 @@ My classes are carefully designed to promote wellness, developing strength and f
 
 Music is an important part of my classes. My playlists include a range of chilled out sounds as well as more energising world beat music mixes.
 
-![flyer for Vinyasa Flow for Seniors](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/classes/Wednesday/Vinyasa-Flow-for-Children.jpg "Gentle Flow Senior Yoga")
+![flyer for Vinyasa Flow for Seniors](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/classes/Wednesday/Vinyasa-Flow-for-Seniors.jpg "Gentle Flow Senior Yoga")
