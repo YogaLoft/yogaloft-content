@@ -1,0 +1,57 @@
+[
+  {
+    "category": "Getting started",
+    "items": [
+      {
+        "question": "I'm a beginner. Can I go to any class?",
+        "answer": {
+          "text": [
+            "**Yes, you can!** All of the teachers will support you in your beginning stages at any class. We also offer a dedicated Beginners class where everyone else in the session is a beginner too, in case that helps to relax you."
+          ],
+          "quote": {
+            "text": [
+              "Ideally, I'd like to be the eternal novice, for then only, the surprises would be endless."
+            ],
+            "cite": {
+              "text": "Keith Jarrett"
+            }
+          }
+        }
+      },
+      {
+        "question": "What should I wear and bring?",
+        "answer": {
+          "text": [
+            "**Wear something comfortable**. For example: a t-shirt and shorts or leggings.",
+            "**We provide mats** which are free to use, and you are welcome to bring your own if you prefer. We usually have new mats available for purchase as well.",
+            "Tap water is available in the Loft so you can refill your water bottles. We usually stock bottled water too, but nothing fancy. :)"
+          ],
+          "quote": {
+            "text": [
+              "You always want to practice yoga barefoot so you can fully connect your feet to the mat and the earth, ensuring better balance and strength. Socks interfere with your connection, and they can make it harder to balance. Neither you nor your teacher can see if your feet are properly aligned if they are hidden under socks, and you run the risk of injury from slipping if you wear them."
+            ],
+            "cite": {
+              "text": "Stepfanie Romine",
+              "url": "http://www.sparkpeople.com/blog/blog.asp?post=your_12_most_embarrassing_yoga_questions_answered"
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "category": "Booking and payment for timetabled classes",
+    "items": [
+      {
+        "question": "Should I book and pay online or just turn up on the day?",
+        "answer": {
+          "text": [
+            "Please book and pay ahead of time, if you can. So far we've always accommodated drop-ins who show up without a booking and we'll try hard to keep that in place. At busy classes in the evenings and on weekends, reception takes longer and sometimes the noise can interrupt the beginning of the yoga session. It's really helpful when people have prepaid and booked online and helps to keep disruption to a minimum. It makes check-in quick and painless.",
+            "If you prepay, but then miss your class, we won't penalise you. You can use your pass at the next session you attend, where the cost is the same or you make up the difference.",
+            "If you're really worried about the NSA using your bookings to know your whereabouts in advance, you can still just turn up unannounced, to get the Yoga you need without tipping them off. :)"
+          ]
+        }
+      }
+    ]
+  }
+]
