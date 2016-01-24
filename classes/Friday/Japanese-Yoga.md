@@ -17,7 +17,7 @@ Two methods of meditation are practiced - one using the sound of bell, and one w
 
 Initially learning to concentrate fully (akin to mindfulness) and then leading into the clarity of meditation (devoid of the ‘chatter’ of the conscious mind). This can be performed effectively sitting in a chair, as well as the more traditional lotus postures or Japanese sitting posture (seiza).
 
-Here is the foundation of our study:
+#### Here is the foundation of our study:
 
 Four Principles for Unifying Mind and Body
 - Use the mind in a positive way
