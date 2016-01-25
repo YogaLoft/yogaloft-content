@@ -356,17 +356,19 @@
     {
       "id": "Yoga-with-Marilina",
       "name": "Yoga with Marilina",
-      "start": "11:30",
-      "end": "13:00",
+      "start": "12:00",
+      "end": "13:30",
       "instructor": {
         "id": "Marilina-De-Matteis",
         "name": "Marilina De Matteis"
       },
-      "warnings": [
-        "This is a private class for a specific group. Attendance is by invitation only."
-      ],
       "passes": [
-        22100
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
       ]
     },
     {
