@@ -3,3 +3,5 @@ My classes are carefully designed to promote wellness, developing strength and f
 Music is an important part of my classes. My playlists include a range of chilled out sounds as well as more energising world beat music mixes.
 
 ![flyer for Vinyasa Flow](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/classes/Wednesday/Vinyasa-Flow.jpg "Vinyasa Flow")
+
+If you've already been to this class, we'd love to hear your thoughts on how it went. [Leave feedback](http://goo.gl/forms/W1SZ0defxC)

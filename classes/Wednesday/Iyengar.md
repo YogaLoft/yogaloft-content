@@ -35,3 +35,5 @@ This class is operated on a non-profit basis with a significant percentage of pr
 - £83.00 to: Jeremiah's Journey through Localgiving
 - £100.00 to: Cirencester Housing For Young People
 - £65.00 to: Tenovus Cancer Care
+
+If you've already been to this class, we'd love to hear your thoughts on how it went. [Leave feedback](http://goo.gl/forms/W1SZ0defxC)

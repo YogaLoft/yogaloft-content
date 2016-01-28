@@ -24,3 +24,5 @@ Four Principles for Unifying Mind and Body
 - Train the mind to arrive at full concentration
 - Exercise the body naturally
 - Train the body gradually, systematically and continuously.
+
+If you've already been to this class, we'd love to hear your thoughts on how it went. [Leave feedback](http://goo.gl/forms/W1SZ0defxC)

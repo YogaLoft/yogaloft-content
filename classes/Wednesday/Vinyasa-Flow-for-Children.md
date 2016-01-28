@@ -7,3 +7,5 @@ Music is an important part of my classes. My playlists include a range of chille
 In this fun creative yoga class, the young participants develop their strength, flexibility and co-oridnation as well as learning important life skills around respect, focus and relaxation. At the end of each term we invite  parents/guardians to join in/or observe the class.
 
 ![flyer for Vinyasa Flow for Children](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/classes/Wednesday/Vinyasa-Flow-for-Children.jpg "Creative Yoga for Kids")
+
+If you've already been to this class, we'd love to hear your thoughts on how it went. [Leave feedback](http://goo.gl/forms/W1SZ0defxC)
