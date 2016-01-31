@@ -29,11 +29,12 @@ Iyengar Yoga Teachers are qualified to a high standard and certified by the Iyen
 
 This class is operated on a non-profit basis with a significant percentage of proceeds donated to charity. The teacher does not accept remuneration and students have contributed:
 
-- £195.80 to: Children with Cancer UK
-- £72.80 to the RNLI
-- £57.60 to: The Motor Neurone Disease (MND) Association
-- £83.00 to: Jeremiah's Journey through Localgiving
-- £100.00 to: Cirencester Housing For Young People
-- £65.00 to: Tenovus Cancer Care
+- £195.80 to: [Children with Cancer UK](http://www.childrenwithcancer.org.uk)
+- £72.80 to: [the RNLI](http://rnli.org)
+- £57.60 to: [The Motor Neurone Disease (MND) Association](http://www.mndassociation.org)
+- £83.00 to: [Jeremiah's Journey](http://www.jeremiahsjourney.org.uk) through Localgiving
+- £100.00 to: [Cirencester Housing For Young People](http://www.chypthecharity.org.uk)
+- £65.00 to: [Tenovus Cancer Care](http://www.tenovuscancercare.org.uk)
+- £84.60 to: [Guide Dogs](http://www.guidedogs.org.uk)
 
 If you've already been to this class, we'd love to hear your thoughts on how it went. [Leave feedback](http://goo.gl/forms/W1SZ0defxC)
