@@ -1,3 +1,7 @@
+## One on one private sessions
+
+### Just you and your instructor with the space to yourself
+
 One on one sessions take a little planning. Here's how it works:
 
 - Go ahead and book a session for the time and date you are interested in. We need payment up front in order to start the process.
