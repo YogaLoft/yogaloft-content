@@ -4,8 +4,9 @@
 
 One on one sessions take a little planning. Here's how it works:
 
-- Go ahead and book a session for the time and date you are interested in. We need payment up front in order to start the process.
-- We will email you back to check if you have a specifc instructor in mind, you needn't wait to hear from us. If you prefer, you can go ahead and email info@yogaloft.co.uk and let us know:
+- Go ahead and [book a session](http://yogaloft.co.uk/#/timetable) for the time and date you are interested in. We need payment up front in order to start the process.
+- If there's a time and date you have in mind, that isn't shown on our timetable, email us at [info@yogaloft.co.uk](mailto:info@yogaloft.co.uk) and we'll do our best to accommodate.
+- We will email you back to check if you have a specifc instructor in mind, you needn't wait to hear from us. If you prefer, you can go ahead and email [info@yogaloft.co.uk](mailto:info@yogaloft.co.uk) and let us know:
  - If you have a specific instructor or Yoga style in mind
  - Any special requirements
  - Any injuries, disabilities or medical condition your instructor should take into account in tailoring your session
