@@ -4,12 +4,12 @@
   "alerts": [
     {
       "from": "2016-02-03T00:00:00.001Z",
-      "to": "2016-02-03T23:00:00.000Z",
+      "to": "2016-02-03T17:00:00.000Z",
       "message": "Today's **Vinyasa Flow for Seniors** and **Vinyasa Flow for Children** have been **cancelled** as the teacher is poorly. Apologies for any inconvenience."
     },
     {
       "from": "2016-02-03T00:00:00.001Z",
-      "to": "2016-02-05T00:00:00.001Z",
+      "to": "2016-02-04T09:00:00.000Z",
       "message": "Thursday's  **Morning Vinyasa Flow** class (Feb 4th) has been **cancelled** as the teacher is poorly. Apologies for any inconvenience."
     }
   ]
