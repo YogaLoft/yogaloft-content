@@ -1,11 +1,17 @@
-## One on one private sessions
+## One on one personal sessions
 
 ### Just you and your instructor with the space to yourself
 
+We offer personal yoga training in dedicated one on one sessions to give you a tailored yoga session focussed on your specific needs. Whether you want to explore a particular muscle movement or just understand your body better, your teacher will focus on you alone and help you to develop your practice in a space where the ambience is all Yoga.
+
+You can set the agenda by telling your instructor exactly what you want to achieve or you can ask them to create a session that targets areas you want to work on. These sessions are all about your needs.
+
+### Booking
+
 One on one sessions take a little planning. Here's how it works:
 
-- Go ahead and [book a session](http://yogaloft.co.uk/#/timetable) for the time and date you are interested in. We need payment up front in order to start the process.
-- If there's a time and date you have in mind, that isn't shown on our timetable, email us at [info@yogaloft.co.uk](mailto:info@yogaloft.co.uk) and we'll do our best to accommodate.
+- Go ahead and book a session below for the time and date you are interested in. We need payment up front in order to start the process.
+- If there's a time and date you have in mind, that isn't shown, email us at [info@yogaloft.co.uk](mailto:info@yogaloft.co.uk) and we'll do our best to accommodate.
 - We will email you back to check if you have a specifc instructor in mind, you needn't wait to hear from us. If you prefer, you can go ahead and email [info@yogaloft.co.uk](mailto:info@yogaloft.co.uk) and let us know:
  - If you have a specific instructor or Yoga style in mind
  - Any special requirements
@@ -13,7 +19,7 @@ One on one sessions take a little planning. Here's how it works:
 - We'll set out to find you an instructor at the time you have requested and let you know as soon as it's confirmed.
 - Show up and have both your instructor and the room all to yourself for the session. Enjoy!
 
-### Rescheduling a confirmed one on one session
+### Rescheduling
 
 Once your instructor has committed to the time and date of your booking, please try not to change it, if it can be helped.
 If you do need to make a change and your booking is at least 7 days away, we will accommodate at no charge.
