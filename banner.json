@@ -3,24 +3,24 @@
     {
       "from": "2016-02-03T00:00:00.001Z",
       "to": "2016-02-13T01:00:00.000Z",
-      "message": "**Iyengar** class on Wednesday, **February 17th** has been **cancelled** as both Gavin and Monika will be abroad."
+      "message": "**Iyengar** class on Wednesday, **February 17th** has been **cancelled** as both Gavin and Monika will be abroad. In the meantime, check out [All Levels Yoga](http://yogaloft.co.uk/#/classes/Wednesday/All-Levels-Yoga) with [Holly Manigan](http://yogaloft.co.uk/#/teachers/Holly-Manigan)."
     },
     {
       "from": "2016-02-03T00:00:00.001Z",
       "to": "2016-02-11T01:00:00.000Z",
-      "message": "**Prana Flow** class on Monday, **February 15th** has been **cancelled** as Keef will be leading workshops abroad."
+      "message": "**Prana Flow** class on Monday, **February 15th** has been **cancelled** as Keef will be leading workshops abroad. In the meantime, check out [All Levels Yoga](http://yogaloft.co.uk/#/classes/Monday/All-Levels-Yoga) with [Holly Manigan](http://yogaloft.co.uk/#/teachers/Holly-Manigan)."
     }
   ],
   "warnings": [
     {
       "from": "2016-02-13T01:00:00.000Z",
       "to": "2016-02-15T00:00:00.000Z",
-      "message": "**Iyengar** class on Wednesday, **February 17th** has been **cancelled** as both Gavin and Monika will be abroad."
+      "message": "**Iyengar** class on Wednesday, **February 17th** has been **cancelled** as both Gavin and Monika will be abroad. In the meantime, check out [All Levels Yoga](http://yogaloft.co.uk/#/classes/Wednesday/All-Levels-Yoga) with [Holly Manigan](http://yogaloft.co.uk/#/teachers/Holly-Manigan)."
     },
     {
       "from": "2016-02-11T00:00:00.001Z",
       "to": "2016-02-13T01:00:00.000Z",
-      "message": "**Prana Flow** class on Monday, **February 15th** has been **cancelled** as Keef will be leading workshops abroad."
+      "message": "**Prana Flow** class on Monday, **February 15th** has been **cancelled** as Keef will be leading workshops abroad. In the meantime, check out [All Levels Yoga](http://yogaloft.co.uk/#/classes/Monday/All-Levels-Yoga) with [Holly Manigan](http://yogaloft.co.uk/#/teachers/Holly-Manigan)."
     }
   ],
   "alerts": [
@@ -37,12 +37,12 @@
     {
       "from": "2016-02-15T00:00:00.000Z",
       "to": "2016-02-17T20:00:00.000Z",
-      "message": "**Iyengar** class on Wednesday, **February 17th** has been **cancelled** as both Gavin and Monika are abroad."
+      "message": "**Iyengar** class on Wednesday, **February 17th** has been **cancelled** as both Gavin and Monika are abroad. In the meantime, check out [All Levels Yoga](http://yogaloft.co.uk/#/classes/Wednesday/All-Levels-Yoga) with [Holly Manigan](http://yogaloft.co.uk/#/teachers/Holly-Manigan)."
     },
     {
       "from": "2016-02-13T00:00:00.000Z",
       "to": "2016-02-15T19:00:00.000Z",
-      "message": "**Prana Flow** class on Monday, **February 15th** has been **cancelled** as Keef will be leading workshops abroad."
+      "message": "**Prana Flow** class on Monday, **February 15th** has been **cancelled** as Keef will be leading workshops abroad. In the meantime, check out [All Levels Yoga](http://yogaloft.co.uk/#/classes/Monday/All-Levels-Yoga) with [Holly Manigan](http://yogaloft.co.uk/#/teachers/Holly-Manigan)."
     }
   ]
 }
