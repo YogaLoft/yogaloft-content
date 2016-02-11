@@ -36,6 +36,24 @@
       ]
     },
     {
+      "id": "All-Levels-Yoga",
+      "name": "All Levels Yoga",
+      "start": "17:45",
+      "end": "19:15",
+      "instructor": {
+        "id": "Holly-Manigan",
+        "name": "Holly Manigan"
+      },
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    },
+    {
       "id": "Mixed-Ability",
       "name": "Mixed Ability",
       "start": "19:30",
@@ -185,6 +203,24 @@
       "warnings": [
         "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
       ],
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    },
+    {
+      "id": "All-Levels-Yoga",
+      "name": "All Levels Yoga",
+      "start": "17:45",
+      "end": "19:15",
+      "instructor": {
+        "id": "Holly-Manigan",
+        "name": "Holly Manigan"
+      },
       "passes": [
         22039,
         22043,
@@ -358,6 +394,24 @@
       "instructor": {
         "id": "Marilina-De-Matteis",
         "name": "Marilina De Matteis"
+      },
+      "passes": [
+        22039,
+        22043,
+        22048,
+        22049,
+        22040,
+        22098
+      ]
+    },
+    {
+      "id": "All-Levels-Yoga",
+      "name": "All Levels Yoga",
+      "start": "12:00",
+      "end": "13:30",
+      "instructor": {
+        "id": "Holly-Manigan",
+        "name": "Holly Manigan"
       },
       "passes": [
         22039,
