@@ -8,7 +8,14 @@
       "instructor": {
         "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
-      }
+      },
+      "substitute": {
+        "id": "Steve-Osman",
+        "name": "Steve Osman"
+      },
+      "info": [
+        "Jo is delayed in  Goa an extra week, Steve has kindly agreed to cover her classes until her return on Friday 19/02/16."
+      ]
     },
     {
       "id": "Prana-Flow",
@@ -59,6 +66,9 @@
         "id": "Steve-Osman",
         "name": "Steve Osman"
       },
+      "info": [
+        "Jo is delayed in  Goa an extra week, Steve has kindly agreed to cover her classes until her return on Friday 19/02/16."
+      ],
       "passes": [
         22039,
         22043,
@@ -83,6 +93,9 @@
         "id": "Steve-Osman",
         "name": "Steve Osman"
       },
+      "info": [
+        "Jo is delayed in  Goa an extra week, Steve has kindly agreed to cover her classes until her return on Friday 19/02/16."
+      ],
       "passes": [
         22042,
         22045,
