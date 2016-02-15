@@ -36,6 +36,7 @@ This class is operated on a non-profit basis with a significant percentage of pr
 - £100.00 to: [Cirencester Housing For Young People](http://www.chypthecharity.org.uk)
 - £65.00 to: [Tenovus Cancer Care](http://www.tenovuscancercare.org.uk)
 - £84.60 to: [Guide Dogs](http://www.guidedogs.org.uk)
-- £72.60 to: [The Banana Tree Project](http://bananatreeproject.org)
+- £72.60 to: [The Banana Tree Project](http://bananatreeproject.org) on 01/02/2016
+- £71.40 to: [The Banana Tree Project](http://bananatreeproject.org) on 15/02/2016
 
 If you've already been to this class, we'd love to hear your thoughts on how it went. [Leave feedback](http://goo.gl/forms/W1SZ0defxC)
