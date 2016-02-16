@@ -51,6 +51,15 @@
             "If you're really worried about the NSA using your bookings to know your whereabouts in advance, you can still just turn up unannounced, to get the Yoga you need without tipping them off. :)"
           ]
         }
+      },
+      {
+        "question": "I can't make it to a class I'm registered for. How do I cancel?",
+        "answer": {
+          "text": [
+            "Don't panic! You don't need to do anything. You won't be charged for the session. If you've already paid, you can either use the credit on your next visit or email us for a refund.",
+            "If you really need to tell someone, you can always email us and we'll take your name off the booking list but it's no biggie really."
+          ]
+        }
       }
     ]
   }
