@@ -1,6 +1,8 @@
 ### Directions
 
-The Yoga Loft is located right in the heart of Plymouth city centre above the old Cafe Rouge. Our stairwell entrance is to the left of the Café entrance.
+The Yoga Loft is located right in the heart of Plymouth city centre above the old Cafe Rouge.
+
+Our stairwell entrance is to the left of the old Café entrance and just to the right of Vaughan's Hair Salon.
 
 Within walking distance of the Rail and Bus stations and opposite the Plymouth City Centre Post Office at the Bretonside end of Royal Parade.
 
