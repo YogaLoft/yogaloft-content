@@ -14,4 +14,4 @@ There is a small car park and street parking just outside the Loft. Both are pay
 
 Parking wardens patrol regularly, including evenings so take care to get the correct amount of time on your ticket. You can also pay from your phone with the [ringgo app](https://www.myringgo.co.uk/apps).
 
-There is some free parking available on [Lambhay Hill](https://www.google.co.uk/maps/dir//50.3667421,-4.1374174/@50.3665077,-4.1372833,19z) after 6pm. This is a short walk away (6 min).
+There is some free parking available on [Lambhay Hill](https://www.google.co.uk/maps/dir/50.3667421,-4.1374174/Yoga+Loft,+Whimple+Street,+Plymouth/@50.3681704,-4.1402155,17z/data=!4m10!4m9!1m0!1m5!1m1!1s0x486c934d18ed17c7:0x12db9a53def30881!2m2!1d-4.139041!2d50.369745!3e2!5i1) after 6pm. This is a short walk away (6 min).
