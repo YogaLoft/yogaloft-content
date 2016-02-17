@@ -1,6 +1,6 @@
 ### Directions
 
-The Yoga Loft is located right in the heart of Plymouth city centre above the old Cafe Rouge.
+The Yoga Loft is located right in the heart of Plymouth city centre on Whimple Street above the old Cafe Rouge between St. Andrews and Buffet City.
 
 Our stairwell entrance is to the left of the old Café entrance and just to the right of Vaughan's Hair Salon.
 
