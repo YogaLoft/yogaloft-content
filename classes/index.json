@@ -8,14 +8,7 @@
       "instructor": {
         "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
-      },
-      "substitute": {
-        "id": "Steve-Osman",
-        "name": "Steve Osman"
-      },
-      "notes": [
-        "Jo is delayed in  Goa an extra week, Steve has kindly agreed to cover her classes until her return on Friday 19/02/16."
-      ]
+      }
     },
     {
       "id": "Prana-Flow",
@@ -36,24 +29,6 @@
       ]
     },
     {
-      "id": "All-Levels-Yoga",
-      "name": "All Levels Yoga",
-      "start": "17:45",
-      "end": "19:15",
-      "instructor": {
-        "id": "Holly-Manigan",
-        "name": "Holly Manigan"
-      },
-      "passes": [
-        22039,
-        22043,
-        22048,
-        22049,
-        22040,
-        22098
-      ]
-    },
-    {
       "id": "Mixed-Ability",
       "name": "Mixed Ability",
       "start": "19:30",
@@ -62,13 +37,6 @@
         "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
-      "substitute": {
-        "id": "Steve-Osman",
-        "name": "Steve Osman"
-      },
-      "notes": [
-        "Jo is delayed in  Goa an extra week, Steve has kindly agreed to cover her classes until her return on Friday 19/02/16."
-      ],
       "passes": [
         22039,
         22043,
@@ -89,13 +57,6 @@
         "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
-      "substitute": {
-        "id": "Steve-Osman",
-        "name": "Steve Osman"
-      },
-      "notes": [
-        "Jo is delayed in  Goa an extra week, Steve has kindly agreed to cover her classes until her return on Friday 19/02/16."
-      ],
       "passes": [
         22042,
         22045,
@@ -132,10 +93,6 @@
         "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
-      "notes": [
-        "Whilst Jo is on retreat in Goa, until February 19th, this session is a freestyle jam session for the Acro Yogi die hards. Please feel free to attend if you are one of the regulars or have been invited by one of the regulars.",
-        "There is no charge for the session, but you may leave a donation for use of the space, if you feel inclined. :)"
-      ],
       "passes": [
         22100
       ]
@@ -211,24 +168,6 @@
         22040,
         22098
       ]
-    },
-    {
-      "id": "All-Levels-Yoga",
-      "name": "All Levels Yoga",
-      "start": "19:30",
-      "end": "21:00",
-      "instructor": {
-        "id": "Holly-Manigan",
-        "name": "Holly Manigan"
-      },
-      "passes": [
-        22039,
-        22043,
-        22048,
-        22049,
-        22040,
-        22098
-      ]
     }
   ],
   "Thursday": [
@@ -256,13 +195,6 @@
         "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
-      "substitute": {
-        "id": "Steve-Osman",
-        "name": "Steve Osman"
-      },
-      "notes": [
-        "Jo is delayed in  Goa an extra week, Steve has kindly agreed to cover her classes until her return on Friday 19/02/16."
-      ],
       "passes": [
         22039,
         22043,
@@ -358,10 +290,6 @@
         "id": "Jo-Thyssen",
         "name": "Jo Thyssen"
       },
-      "notes": [
-        "Whilst Jo is on retreat in Goa, until February 19th, this session is a freestyle jam session for the Acro Yogi die hards. Please feel free to attend if you are one of the regulars or have been invited by one of the regulars.",
-        "There is no charge for the session, but you may leave a donation for use of the space, if you feel inclined. :)"
-      ],
       "passes": [
         22100
       ]
