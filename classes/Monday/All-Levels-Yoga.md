@@ -1,3 +1,0 @@
-Inspired by the alignment of Ashtanga and the mind body connection of Vinyasa, All Levels Yoga will focus on building strength, flexibility and body awareness with an emphasis on alignment. Come deepen your practice in this safe and supportive environment. You will be offered the opportunity to challenge yourself and to grow in your practice. Students will be encouraged to request poses and areas of their practice that they would like to explore more deeply and questions before and after practice are welcome.
-
-If you've already been to this class, we'd love to hear your thoughts on how it went. [Leave feedback](http://goo.gl/forms/W1SZ0defxC)
