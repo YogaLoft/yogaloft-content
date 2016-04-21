@@ -6,6 +6,16 @@
       "id": "Jo-Thyssen",
       "name": "Jo Thyssen"
     },
+    "instructors": [
+      {
+        "id": "Jo-Thyssen",
+        "name": "Jo Thyssen"
+      },
+      {
+        "id": "Jo-Thyssen",
+        "name": "Jo Thyssen"
+      }
+    ]
     "dates" : [
       {
         "date": "2016-05-01",
