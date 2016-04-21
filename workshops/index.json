@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Some-Amazing-Workshop",
+    "name": "The amazing yoga workshop",
+    "instructor": {
+      "id": "Jo-Thyssen",
+      "name": "Jo Thyssen"
+    },
+    "dates" : [
+      {
+        "date": "2016-05-01",
+        "start": "04:30",
+        "end": "12:30"
+      },
+      {
+        "date": "2016-05-08",
+        "start": "04:30",
+        "end": "12:30"
+      }
+    ]
+  }
+]
