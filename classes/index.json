@@ -261,6 +261,19 @@
       ]
     },
     {
+      "id": "Family-Yoga",
+      "name": "Family Yoga",
+      "start": "11:00",
+      "end": "12:00",
+      "instructor": {
+        "id": "jules-Laville",
+        "name": "Jules Laville"
+      },
+      "passes": [
+        22100
+      ]
+    },
+    {
       "id": "Ashtanga-Vinyasa",
       "name": "Ashtanga Vinyasa",
       "start": "17:45",
