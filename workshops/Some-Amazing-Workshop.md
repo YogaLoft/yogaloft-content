@@ -18,6 +18,6 @@ If you have been wondering how to get involved, this course is for you!
 
 Course cost: One day £35, Both days £60
 
-Jo and Nuku will teach you how to feel like you are flying, yoga style! No experience necessary, all levels welcome, you do not need a partner for this class but you will be working with someone. Mats provided. Preregistration required. Book to reserve your spot right now! https://yogaloft.tulasoftware.com/external_form?m=Buy+a+pass+for+Acroyoga+Fundamentals&p%5B0%5D=26708&p%5B1%5D=26709
+Jo and Nuku will teach you how to feel like you are flying, yoga style! No experience necessary, all levels welcome, you do not need a partner for this class but you will be working with someone. Mats provided. Preregistration required. Book to reserve your spot right now! 
 
 Contact:jo@yogaloft.co.uk,nukuwondrausch@gmail.com
