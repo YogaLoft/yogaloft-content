@@ -1,5 +1,5 @@
 ## Jo and Nuku's Acroyoga Fundamentals Workshop Series
-![flyer for acroyoga workshop](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/workshops/AcroEvent.jpg "Acrotastic")
+![flyer for acroyoga workshop](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/workshops/AcroEvent2.jpg "Acrotastic")
 
 We have adapted (and improved!) our course structure to better suit everyone's needs ;-) 2 Sundays, 11-3pm £35 per day or £60 for both :-) 12th and 19th June at Plymouth Yoga Loft <3 
 
