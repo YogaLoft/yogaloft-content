@@ -45,9 +45,9 @@
   ],
   "alerts": [
     {
-      "from": "2016-03-25T00:00:00.001Z",
-      "to": "2016-03-25T18:15:00.000Z",
-      "message": "Today's **Asthanga** class has been **cancelled** as it is Good Friday. Apologies for any inconvenience."
+      "from": "2016-05-25T00:00:00.001Z",
+      "to": "2016-05-30T19:50:00.000Z",
+      "message": "Today's **Mixed Ability** class has been **cancelled**. Apologies for any inconvenience."
     },
     {
       "from": "2016-03-25T00:00:00.001Z",
