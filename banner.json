@@ -45,9 +45,9 @@
   ],
   "alerts": [
     {
-      "from": "2016-05-25T00:00:00.001Z",
-      "to": "2016-05-30T19:50:00.000Z",
-      "message": "Today's **Mixed Ability** class has been **cancelled**. Apologies for any inconvenience."
+      "from": "2016-06-27T00:00:00.001Z",
+      "to": "2016-06-27T11:30:00.000Z",
+      "message": "Today's **Communityy** class has been **cancelled**. Apologies for any inconvenience."
     },
     {
       "from": "2016-03-25T00:00:00.001Z",
