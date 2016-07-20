@@ -46,6 +46,11 @@
   "alerts": [
     {
       "from": "2016-07-10T00:00:00.001Z",
+      "to": "2016-07-20T17:00:00.000Z",
+      "message": "Today's **Vinyasa Flow for Children** class has been **cancelled**. Apologies for any inconvenience."
+    },
+    {
+      "from": "2016-07-10T00:00:00.001Z",
       "to": "2016-07-11T20:00:00.000Z",
       "message": "Monday evening's **Mixed Ability** class has been **cancelled** whilst Jo is abroad. Apologies for any inconvenience."
     },
