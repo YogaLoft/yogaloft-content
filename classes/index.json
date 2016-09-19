@@ -10,25 +10,7 @@
         "name": "Jo Thyssen"
       }
     },
-    {
-      "id": "Prana-Flow",
-      "name": "Prana Flow",
-      "start": "17:45",
-      "end": "19:15",
-      "instructor": {
-        "id": "Keef-Wesolowski-Miles",
-        "name": "Keef Wesolowski Miles"
-      },
-      "passes": [
-        22039,
-        22043,
-        22048,
-        22049,
-        22040,
-        22098
-      ]
-    },
-    {
+     {
       "id": "Mixed-Ability",
       "name": "Mixed Ability",
       "start": "19:30",
@@ -136,9 +118,6 @@
         "id": "Charlotte-Levy",
         "name": "Charlotte Levy"
       },
-      "warnings": [
-        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
-      ],
       "passes": [
         22039,
         22043,
@@ -157,9 +136,6 @@
         "id": "Gavin-Tilstone",
         "name": "Gavin Tilstone"
       },
-      "warnings": [
-        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
-      ],
       "passes": [
         22039,
         22043,
@@ -227,8 +203,8 @@
     {
       "id": "Vinyasa-Flow",
       "name": "Vinyasa Flow",
-      "start": "10:00",
-      "end": "11:30",
+      "start": "9:30",
+      "end": "10:30",
       "instructor": {
         "id": "Charlotte-Levy",
         "name": "Charlotte Levy"
@@ -282,9 +258,6 @@
         "id": "Lee-Miller",
         "name": "Lee Miller"
       },
-      "warnings": [
-        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
-      ],
       "passes": [
         22039,
         22043,
@@ -328,42 +301,6 @@
       ]
     },
     {
-      "id": "Yoga-with-Marilina",
-      "name": "Yoga with Marilina",
-      "start": "12:00",
-      "end": "13:30",
-      "instructor": {
-        "id": "Marilina-De-Matteis",
-        "name": "Marilina De Matteis"
-      },
-      "passes": [
-        22039,
-        22043,
-        22048,
-        22049,
-        22040,
-        22098
-      ]
-    },
-    {
-      "id": "All-Levels-Yoga",
-      "name": "All Levels Yoga",
-      "start": "12:00",
-      "end": "13:30",
-      "instructor": {
-        "id": "Holly-Manigan",
-        "name": "Holly Manigan"
-      },
-      "passes": [
-        22039,
-        22043,
-        22048,
-        22049,
-        22040,
-        22098
-      ]
-    },
-    {
       "id": "Vinyasa-Flow",
       "name": "Vinyasa Flow",
       "start": "16:00",
@@ -372,9 +309,6 @@
         "id": "Jules-Laville",
         "name": "Jules Laville"
       },
-      "warnings": [
-        "This class has become quite popular. Please **book and pay in advance** if you can, to allow your teacher to focus on your yoga and reduce time spent handling reception. Remember that **if you miss a class, you can still use your pass another day**. *No penalties or cancellation fees here*."
-      ],
       "passes": [
         22039,
         22043,
