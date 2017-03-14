@@ -1,41 +1,34 @@
 [
   {
-    "id": "Acroyoga-Workshop",
-    "name": "Acroyoga Fundamentals Workshop Series",
+    "id": "Into to Yin",
+    "name": "Introduction to Yin Yoga",
     "instructor": {
-      "id": "Jo-Thyssen",
-      "name": "Jo Thyssen"
+      "id": "Georgie-Crickmere",
+      "name": "Georgie Crickmere"
     },
     "instructors": [
       {
-        "id": "Jo-Thyssen",
-        "name": "Jo Thyssen"
+        "id": "Georgie-Crickmere",
+        "name": "Georgie Crickmere"
       },
-      {
-        "id": "Nuku-Wondrausch",
-        "name": "Nuku Wondrausch"
-      }
-    ],
+     
     "dates" : [
       {
-        "date": "2016-06-12",
-        "start": "11:00",
-        "end": "3:00"
+        "date": "2017-04-02",
+        "start": "10:00",
+        "end": "12:30"
       },
       {
-        "date": "2016-06-19",
-        "start": "11:00",
-        "end": "3:00"
+        "date": "2017-04-02",
+        "start": "10:00",
+        "end": "12:30"
       }
     ],
     "passes": [
-      26709,
-      27509,
-      27510
-    ],
+      ],
     "display": {
-      "from": "2016-02-15T00:00:00.001Z",
-      "to": "2016-06-25T17:45:00.000Z"
+      "from": "2017-03-14T00:00:00.001Z",
+      "to": "2017-04-05T17:45:00.000Z"
     }
   }
 ]
