@@ -17,6 +17,6 @@ To book your place, please click the link below.
 
 **BOOKING IS ESSENTIAL TO SECURE YOUR PLACE**
 
-Please contact georgie@yogaloft.co.uk for booking and full details of the workshop.
+For further information feel free to get in touch :) georgie@yogaloft.co.uk 
 
-Looking forward to seeing you there for this relaxing workshop.
+We are looking forward to seeing you there for this relaxing workshop.
