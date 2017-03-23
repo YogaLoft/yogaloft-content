@@ -1,5 +1,5 @@
-## Intro to Yin Yoga
-# Sunday April 2nd from 10.00am-12.30pm
+# Intro to Yin Yoga
+## Sunday April 2nd from 10.00am-12.30pm
 ![flyer for acroyoga workshop](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/workshops/georgie_yin.jpg "YinYoga")
 
 Join Georgie as she guides you through this practice designed to bring you deeper than just the superficial muscles, accessing the connective tissues, mobilising joints and releasing fascia. 
