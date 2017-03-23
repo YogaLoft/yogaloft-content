@@ -1,4 +1,4 @@
-# Intro to Yin Yoga
+# An Introduction to Yin Yoga
 ## Sunday April 2nd from 10.00am-12.30pm
 ![flyer for acroyoga workshop](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/workshops/georgie_yin.jpg "YinYoga")
 
