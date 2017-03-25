@@ -19,4 +19,4 @@ To book your place, please click the link below.
 
 For further information feel free to get in touch :) georgie@yogaloft.co.uk 
 
-We are looking forward to seeing you there for this relaxing workshop.
+We are looking forward to seeing you there for this woderfully relaxing workshop.
