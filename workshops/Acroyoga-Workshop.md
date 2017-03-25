@@ -1,22 +1,24 @@
-# An Introduction to Yin Yoga with Georgie Crickmere
-## Sunday April 2nd from 10.00am-12.30pm
-![flyer for acroyoga workshop](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/workshops/georgie_yin.jpg "YinYoga")
+## Jo and Nuku's Acroyoga Fundamentals Workshop Series
+![flyer for acroyoga workshop](https://raw.githubusercontent.com/YogaLoft/yogaloft-content/master/workshops/AcroEvent2.jpg "Acrotastic")
 
-Join Georgie as she guides you through this practice designed to bring you deeper than just the superficial muscles, accessing the connective tissues, mobilising joints and releasing fascia. 
-You will explore the use of props as you allow the body to relax and let go of any stress and tension to feel fully supported in each pose. The workshop will also introduce the use of pranayama and meditation to take you deeper. 
-Learning the differences between a yin and yang practice can help to better understand the benefits of a fully balanced practice.
+We have adapted (and improved!) our course structure to better suit everyone's needs ;-) 2 Sundays, 11-3pm £35 per day or £60 for both :-) 12th and 19th June at Plymouth Yoga Loft <3 
 
-Yin yoga is a quiet and meditative and uses long-held passive poses. Gentle poses are held for anywhere between 3-7 minutes with very little muscular engagement. 
-This is a truly nourishing style of yoga that must be experienced in order to truly understand its benefits.
+We have put together this two day course, which we will deliver on consecutive Sundays, designed to introduce the foundational building blocks of the beautiful practice of acroyoga. Come to one or both days, as they will progress and also stand alone ;-)
 
-This workshop is open to all levels.
+The sessions will enable you to develop strength and skills that you never knew you had, improve co-ordination, connect to and nourish the whole body, meet new people, make new friends and have a great deal of fun along the way. 
 
-*£25 per person (£20 concession)*
+AcroYoga is a dynamic partner practice that blends the wisdom of yoga, the dynamic power of acrobatics, and the loving kindness of healing arts. These three lineages combined cultivate trust, playfulness, and community. 
 
-To book your place, please click the link below.
+The sessions will consist of:
+Exercise drills to bring about integral body awareness and train new muscles. We will work on calibrations, play games to build strength and connection and safely develop the core principles of the acroyoga practice. 
 
-**BOOKING IS ESSENTIAL TO SECURE YOUR PLACE**
+There will be ample opportunity to exceed your own expectations as we explore and play with being upside down, touch on handstand basics, pops and counterbalances. 
 
-For further information feel free to get in touch :) georgie@yogaloft.co.uk 
+The course will run over two consecutive Sundays from 11am to 3pm on the 12th and 19th of June. 
+If you have been wondering how to get involved, this course is for you!
 
-We are looking forward to seeing you there for this relaxing workshop.
+Course cost: One day £35, Both days £60
+
+Jo and Nuku will teach you how to feel like you are flying, yoga style! No experience necessary, all levels welcome, you do not need a partner for this class but you will be working with someone. Mats provided. Preregistration required. Book to reserve your spot right now! 
+
+Contact:jo@yogaloft.co.uk,nukuwondrausch@gmail.com
