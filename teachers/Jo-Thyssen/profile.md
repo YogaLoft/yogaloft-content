@@ -11,3 +11,5 @@ Since the opening of the studio I have completed a teacher training in Anusara Y
 I am very grateful to my teachers for all they have passed on to me and believe that learning never stops. The more I learn, the more I realise that my knowledge only amounts to a tiny drop in the great ocean of 'Yoga'. I simply love yoga and the journey it has brought me and in my classes hope to share that journey.
 
 [www.yogaloft.co.uk](http://www.yogaloft.co.uk)
+
+https://www.facebook.com/groups/AcroyogaPlymouth/
