@@ -13,3 +13,5 @@ In 2014 my family relocated to Plymouth. I am looking forward to teaching yoga a
 --Saint Augustine
 
 [www.rainbowyoga.webspace.virginmedia.com](http://www.rainbowyoga.webspace.virginmedia.com)
+
+https://www.facebook.com/RainbowYogaUK/
