@@ -7,3 +7,5 @@ These methods were developed by Nakamura Tempu in Japan from the 1920s until his
 One of his most prominent students was Koichi Tohei. I attended a two week course with him in 1978 and trained in his system for nearly 10 years. This went on to form the basis of my practice ever since.
 
 I am keen to share what I have learnt, and continue to learn, through these simple but profound methods.
+
+http://www.japaneseyogaplymouth.talktalk.net/
